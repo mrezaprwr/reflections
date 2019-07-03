@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+The folder changes the behavior into repository mode. To make all the git behavior can be applied in the repository
