@@ -24,8 +24,8 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    It might be easier because you don't have to care about committing changes everytime
-    and it's also harder since you can't track what are the changes throughout the time.
+    You can work in a different branch to avoid making mistakes on the master branch and pull request your new
+branch into remote repository to ask the repository's owner if the branch or commit is allowed to be pushed.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
